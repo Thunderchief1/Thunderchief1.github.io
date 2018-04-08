@@ -68,3 +68,15 @@ img {
  color: #8b2ea5;
  font-size: 40px;
 }
+
+.hem-bild{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.annanas-bild{
+  width: 50%;
+}
