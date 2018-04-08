@@ -11,10 +11,6 @@ h1{
   margin: 50px;
 }
 
-img{
-  width: 100%;
-}
-
 .container{
   display: flex;
   justify-content: center;
@@ -36,7 +32,7 @@ img{
 }
 
 
-.huvud-text{
+.hem-text{
   display: flex;
   flex-direction: column;
   color: #8b2ea5;
