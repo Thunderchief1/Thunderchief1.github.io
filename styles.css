@@ -8,9 +8,9 @@
 
 h1{
   color: #8b2ea5;
-  font-size: 1px;
+  font-size: 15px;
   font-family: serif;
-  margin: px;
+  margin: 20px;
 }
 
 
@@ -88,7 +88,7 @@ img {
 
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 600px) {
 
   .header{
     background-image: url("./images/bild1.jpg");
@@ -183,7 +183,7 @@ img {
 
 
 
-@media only screen and (min-width: 1224px) {
+@media only screen and (min-width: 768px) {
 
   .header{
     background-image: url("./images/bild1.jpg");
